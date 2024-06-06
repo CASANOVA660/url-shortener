@@ -55,8 +55,7 @@ The project was another small step in my Web Developer journey. It strengthened 
 
 ## Author
 
-- Website - [Chris Pantak](https://pantak.net)
-- Frontend Mentor - [@Kielx](https://www.frontendmentor.io/profile/Kielx)
+- Mohamed amine bouali
 
 ## Acknowledgments
 
